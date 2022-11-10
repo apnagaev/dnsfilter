@@ -1,0 +1,132 @@
+#@home services
+@@/nagaev.*/$important
+@@||whereit.ru^$important
+#ms office
+@@||powerbi.com^$important
+@@||browser.pipe.aria.microsoft.com^$important
+#avatars
+@@||avatars.mds.yandex.net^$important
+#mail links
+@@||dmg.digitaltarget.ru^$important
+@@||mandrillapp.com^$important
+@@||geteml.com^$important
+@@||amp.gs^$important
+@@||sbrf.link.info.sberbank.ru^$important
+#other
+@@||nicehash.com^$important
+@@||uniproxy.alice.yandex.net^$important
+@@||r.mail.ru^$important
+@@||email-services.mindbox.ru^$important
+@@||widgets.kinopoisk.ru^$important
+@@||salute.onelink.me^$important
+@@||mcdapp.onelink.me^$important
+@@||browser.yandex.ru^$important
+@@||outlook.office.com^$important
+@@||clck.ru^$important
+@@||yabs.yandex.ru^$important
+@@||apps.global.fortinet.com^$important
+@@||gdz.ru^$important
+@@||ozon.onelink.me^$important
+#belka support
+@@||belkacar.pushwoosh.com^$important
+#yandex short link
+@@||ya.cc^$important
+#playmarket app link
+@@||8jxm.adj.st^$important
+#spotyfy payment
+@@||wl.spotify.com^$important
+#amazifit wether
+@@||abroad.apilocate.amap.com^$important
+#yandex afisha
+@@||widget.afisha.yandex.ru^$important
+@@||click.sender.yandex.ru^$important
+#giftery
+@@||www.giftery.ru^$important
+#disable senders
+@@||e.mindbox.ru^$important
+###
+#1tv_fullhd
+#@@||1internet.tv^$important
+#@@||stat.teleport.media^$important
+#@@||ott.teletarget.ru^$important
+#@@||tns-counter.ru^$important
+@@||adfox.ru^$important
+#@@||stats.seedr.com^$important
+#@@||stat.teletarget.ru^$important
+######
+#vendor by mac
+@@||2ip.ua^$important
+#samsung smart tv
+@@||cdn.samsungcloudsolution.com^$important
+@@||samsungqbe.com^$important
+#####
+#crome extensions
+@@||clients2.google.com^$important
+###########
+###linkedin
+@@||licdn.com^$important
+###Dropbox
+@@||dropbox.com^$important
+@@||dropboxusercontent.com^$important
+###DrWeb CureIT
+@@||drweb.com^$important
+###litres
+@@||litres.ru^$important
+###exmo
+@@||exmo.me^$important
+@@||exmo.com^$important
+###SalesForce
+@@||salesforce.com^$important
+###Zoho
+@@||zoho.com^$important
+##unsubscribe
+@@||us1-usndr.com^$important
+###Google firebase
+@@||firebase.google.com^$important
+###Sber
+@@||sberbank.ru^$important
+###oprosy
+@@||research.net^$important
+##skype
+@@||skype.com^$important
+##book_shops
+@@||avidreaders.ru^$important
+@@||livelib.ru^$important
+@@||litmir.me^$important
+@@||fantlab.ru^$important
+@@||akniga.org^$important
+##chackeip
+@@||checkip.amazonaws.com^$important
+###instagram
+@@||instagram.com^$important
+@@||graph.facebook.com^$important
+@@||connect.facebook.net^$important
+##news
+@@||russian.rt.com^$important
+@@||ruposters.ru^$important
+@@||news.mail.ru^$important
+@@||vesti.ru^$important
+##vpn
+@@||nordvpn.net^$important
+###
+@@||awstrack.me^$important
+@@||sendgrid.net^$important
+##my
+@@||api.lbs.yandex.net^$important
+@@||ip-api.com^$important
+@@||driverpack.io^$important
+@@||cp.unisender.com^$important
+#abuse vk
+#||userapi.com^
+@@||vk.com^$important
+@@||atol.su^$important
+@@||cdn.ampproject.org^$important
+@@||otr-online.ru^$important
+@@||zen.yandex.ru^$important
+@@||webcaster.pro^$important
+@@||rutube.ru^$important
+@@||ura.news^$important
+@@||gazeta.ru^$important
+@@||kp.ru^$important
+@@||yandex.net^$important
+@@||interfax.ru^$important
