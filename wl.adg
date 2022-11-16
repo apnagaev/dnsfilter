@@ -47,8 +47,8 @@
 #vendor by mac
 ||2ip.ua^
 #samsu^ng smart tv
-||cdn.samsu^ngcloudsolution.com^
-||samsu^ngqbe.com^
+||cdn.samsungcloudsolution.com^
+||samsungqbe.com^
 #####
 #crome extensions
 ||clients2.google.com^
@@ -96,7 +96,7 @@
 ||ruposters.ru^
 ||news.mail.ru^
 ||vesti.ru^
-||ura.news
+||ura.news^
 ||gazeta.ru^
 ||kp.ru^
 ||interfax.ru^
@@ -104,7 +104,7 @@
 ##vpn
 ||nordvpn.net^
 ###
-||awst^rack.me^
+||awstrack.me^
 ||sendgrid.net^
 ||##my
 ||ip-api.com^
@@ -113,7 +113,7 @@
 #abuse vk
 ||vk.com^
 ||atol.su^
-||cdn.ampproject.org
+||cdn.ampproject.org^
 ||otr-online.ru^
-||webcast^er.pro
+||webcaster.pro^
 ||rutube.ru^
