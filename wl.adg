@@ -7,9 +7,9 @@
 ||browser.pipe.aria.microsoft.com^
 ||outlook.office.com^
 #yandex
-||yandex.net^
-||ya.cc^
-||yandex.ru^
+#||yandex.net^
+#||ya.cc^
+#||yandex.ru^
 ||yadi.sk^
 #mail links
 ||dmg.digitaltarget.ru^
