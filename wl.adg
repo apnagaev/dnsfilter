@@ -1,4 +1,4 @@
-#home^ services
+#home services
 ||nagaev.biz^
 ||nagaev.su^
 ||whereit.ru^
@@ -63,20 +63,16 @@
 ||www.giftery.ru^
 #disable senders
 ||e.mindbox.ru^
-###
-#1tv_fullhd
+###1tv_fullhd
 ||adfox.ru^
-######
-#vendor by mac
+#######vendor by mac
 ||2ip.ua^
-#samsu^ng smart tv
+#samsung smart tv
 ||cdn.samsungcloudsolution.com^
 ||samsungqbe.com^
-#####
-#crome extensions
+######crome extensions
 ||clients2.google.com^
-###########
-###linkedin
+##############linkedin
 ||licdn.com^
 ###Dropbox
 ||dropbox.com^
@@ -95,6 +91,7 @@
 ##unsubscribe
 ||us1-usndr.com^
 ||ext.enkod.ru^
+||stat.gigansk.ru^
 ######Google firebase
 ||firebase.google.com^
 ###Sber
