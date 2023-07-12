@@ -26,6 +26,9 @@
 ||cloud-api.yandex.net^
 ||storage.ape.yandex.net^
 ||favicon.yandex.net^
+||api.iot.yandex.net^
+||storage.mds.yandex.net^
+||api.plus.yandex.net^
 #mail links
 ||dmg.digitaltarget.ru^
 ||mandrillapp.com^
