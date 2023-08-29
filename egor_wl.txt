@@ -1,2 +1,2 @@
 213.87.160.0/22 #mts lte msk
-31.173.80.0/21 megafon lte msk
+31.173.80.0/21 #megafon lte msk
