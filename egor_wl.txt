@@ -3,5 +3,5 @@
 62.118.80.0/22 #mts 2g smr
 31.173.80.0/21 #megafon lte msk
 176.192.0.0/15 #megafon lte msk
-178.176.64.0 #megafon 2g msk
+178.176.64.0/19 #megafon 2g msk
 83.220.236.0/22 #beeline lte msk
