@@ -1,5 +1,6 @@
 213.87.160.0/22 #mts lte msk
 213.87.128.0/19 #mts lte msk
+62.118.80.0/22 #mts smr
 31.173.80.0/21 #megafon lte msk
 176.192.0.0/15 #megafon lte
 83.220.236.0/22 #beeline lte
