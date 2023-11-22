@@ -215,5 +215,7 @@
 ||rebrandly.com^
 ||cambridge.org^
 ||bdva.ru^
-||reservationsteps.ru^
-||gs-loc.apple.com^
+||public-api.reservationsteps.ru^
+||widget.reservationsteps.ru^
+#||gs-loc.apple.com^
+||firebaseinstallations.googleapis.com^
