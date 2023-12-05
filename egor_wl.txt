@@ -8,3 +8,4 @@
 91.193.176.0/22 #beeline lte msk
 176.59.32.0/19 #tele2 lte msk
 176.59.96.0/19 #tele2 lte smr
+89.112.0.0/15 #yartelecom
