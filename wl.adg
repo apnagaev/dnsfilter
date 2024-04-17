@@ -213,7 +213,7 @@
 ####google capcha
 ||googletagmanager.com^
 ||api.smoot.apple.com^
-||google-analytics.com^
+#||google-analytics.com^
 ||widget.redkassa.ru^
 ||rebrandly.com^
 ||cambridge.org^
