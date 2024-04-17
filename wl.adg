@@ -211,7 +211,7 @@
 ||pushwoosh.com^
 ||push-me.mail.ru^
 ####google capcha
-||googletagmanager.com^
+#####||googletagmanager.com^
 ||api.smoot.apple.com^
 ###||google-analytics.com^
 ||widget.redkassa.ru^
