@@ -184,7 +184,7 @@
 ||click.sender.yandex.ru^
 ||wa.me^
 ||api.micloud.xiaomi.net^
-||encrypted-tbn0.gstatic.com^
+###||encrypted-tbn0.gstatic.com^
 ||rs.oralb.com^
 ||pg.com^
 ||youtubei.googleapis.com^
@@ -192,7 +192,7 @@
 ||cdn.ampproject.org^
 ||static.pochta.ru^
 ||zannn.top^
-||ssl.google-analytics.com^
+###||ssl.google-analytics.com^
 ||history.google.com^
 ||crashlyticsreports-pa.googleapis.com^
 ||platform.linkedin.com^
@@ -213,7 +213,7 @@
 ####google capcha
 ||googletagmanager.com^
 ||api.smoot.apple.com^
-#||google-analytics.com^
+###||google-analytics.com^
 ||widget.redkassa.ru^
 ||rebrandly.com^
 ||cambridge.org^
@@ -222,7 +222,7 @@
 ||widget.reservationsteps.ru^
 #||gs-loc.apple.com^
 ||googleapis.com^
-||adservice.google.ru^
+####||adservice.google.ru^
 ||iknigi.net^
 ||7books.ru^
 ||orabote.sbs^
@@ -234,7 +234,7 @@
 ||trace.svc.ui.com^
 ||ping.ui.com^
 ||bit.ly^
-||googleads.g.doubleclick.net^
+####||googleads.g.doubleclick.net^
 ||ogs.google.com^
 ||translated.turbopages.org^
 ||suggestions.dadata.ru^
