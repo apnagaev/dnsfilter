@@ -1,10 +1,3 @@
-docker.com
-hub.docker.com
-elb-default.us-east-1.aws.dckr.io
-prodextdefblue-be9epwf86ra-011431b53d8e1adf.elb.us-east-1.amazonaws.com
-44.221.37.199
-52.44.227.212
-54.156.140.159
 10.66.66.254
 2ip.ru
 5mins.eu
@@ -87,3 +80,10 @@ www.nntt.org
 www.reddit.com
 www.strava.com
 www.torlock2.com
+docker.com
+hub.docker.com
+elb-default.us-east-1.aws.dckr.io
+prodextdefblue-be9epwf86ra-011431b53d8e1adf.elb.us-east-1.amazonaws.com
+44.221.37.199
+52.44.227.212
+54.156.140.159
