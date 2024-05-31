@@ -87,3 +87,6 @@ prodextdefblue-be9epwf86ra-011431b53d8e1adf.elb.us-east-1.amazonaws.com
 44.221.37.199
 52.44.227.212
 54.156.140.159
+index.docker.io
+registry.hub.docker.com
+registry-1.docker.io
