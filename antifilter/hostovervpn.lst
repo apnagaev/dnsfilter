@@ -91,3 +91,8 @@ index.docker.io
 registry.hub.docker.com
 registry-1.docker.io
 redis.io
+www.youtube.com
+youtube.com
+*.youtube.com
+googlevideo.com
+*.googlevideo.com
