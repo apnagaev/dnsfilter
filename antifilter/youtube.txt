@@ -5,3 +5,4 @@ googlevideo.com
 *.googlevideo.com
 173.194.0.0/16
 play.google.com
+manifest.googlevideo.com
