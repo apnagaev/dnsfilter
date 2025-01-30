@@ -4,3 +4,5 @@ api.plex.tv
 52.50.104.180/32
 52.48.106.191/32
 185.71.64.0/22
+speedtest.net
+www.speedtest.net
