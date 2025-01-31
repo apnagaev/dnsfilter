@@ -20,3 +20,4 @@ pubsub.plex.tv
 185.71.64.0/22
 speedtest.net
 www.speedtest.net
+play.google.com
