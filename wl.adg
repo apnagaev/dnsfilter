@@ -321,9 +321,10 @@
 ||tmdb-image-prod.b-cdn.net^
 ||boomerang.dell.com^
 ####speedtest ooocla
-cdn.ziffstatic.com
-b.cdnst.net
-b-code.liadm.com
-c.amazon-adsystem.com
-btloader.com
-diffuser-cdn.app-us1.com
+||cdn.ziffstatic.com^
+||b.cdnst.net^
+||b-code.liadm.com^
+||c.amazon-adsystem.com^
+||btloader.com^
+||diffuser-cdn.app-us1.com^
+||click.pstmrk.it^
