@@ -21,3 +21,4 @@ pubsub.plex.tv
 speedtest.net
 www.speedtest.net
 play.google.com
+prav.io
