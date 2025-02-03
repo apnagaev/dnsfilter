@@ -22,3 +22,11 @@ speedtest.net
 www.speedtest.net
 play.google.com
 prav.io
+garant.pravovest.ru
+89.175.25.253
+internet.garant.ru
+91.215.42.155
+counter.yadro.ru
+88.212.201.198
+88.212.201.204
+88.212.202.52
