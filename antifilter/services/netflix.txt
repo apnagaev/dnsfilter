@@ -2,6 +2,7 @@ uiboot.netflix.com
 uiboot.dradis.netflix.com
 uiboot.eu-west-1.internal.dradis.netflix.com
 notifications.netflix.com
+dualstack.apiproxy-prod-sharded-1-484932810.eu-west-1.elb.amazonaws.com
 99.81.251.0/24
 96.6.0.0/15
 92.70.251.56/30
