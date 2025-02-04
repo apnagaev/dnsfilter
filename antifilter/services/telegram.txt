@@ -1,0 +1,5 @@
+api.telegram.org
+cdn4.cdn-telegram.org
+telegram.org
+www.telegram.org
+t.me
