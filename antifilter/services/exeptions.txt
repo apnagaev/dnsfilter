@@ -21,6 +21,12 @@ pubsub.plex.tv
 speedtest.net
 www.speedtest.net
 play.google.com
+www.google.com
+google.com
+www.google.ru
+google.ru
+translate.google.ru
+translate.google.com
 prav.io
 garant.pravovest.ru
 89.175.25.253
