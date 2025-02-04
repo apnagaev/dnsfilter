@@ -21,3 +21,7 @@ chat.cdn.whatsapp.net
 media-ams2-1.cdn.whatsapp.net
 media-waw2-1.cdn.whatsapp.net
 media-waw2-2.cdn.whatsapp.net
+graph.whatsapp.com
+dit.whatsapp.net
+media-arn2-1.cdn.whatsapp.net
+media-arn2-1.cdn.whatsapp.net
