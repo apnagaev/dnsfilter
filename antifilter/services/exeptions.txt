@@ -1,3 +1,4 @@
+31.177.64.0/19
 www.plex.tv
 plex.tv
 app.plex.tv
