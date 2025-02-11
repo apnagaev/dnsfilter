@@ -1,3 +1,5 @@
+#####WIALON CONTENT
+hwdb-api.gurtam.com
 ###mgts
 46.138.0.0/16
 37.190.0.1/17
