@@ -91,3 +91,4 @@ counter.yadro.ru
 88.212.201.204
 88.212.202.52
 t.me
+download.owncloud.com
