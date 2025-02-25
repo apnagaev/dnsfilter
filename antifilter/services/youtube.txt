@@ -1,6 +1,7 @@
 216.58.208.206/32
 216.58.209.14/32
 youtube-ui.l.google.com
+rr2.sn-gvnuxaxjvh-pw3e.googlevideo.com
 1.0.0.0/9
 1.192.0.0/10
 101.64.0.0/10
