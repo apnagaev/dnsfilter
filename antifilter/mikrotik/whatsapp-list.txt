@@ -1,20 +1,11 @@
-/add list=whatsapp-list 57.144.111.32
-/add list=whatsapp-list 57.144.113.32
-/add list=whatsapp-list 157.240.201.60
-/add list=whatsapp-list 157.240.201.60
-/add list=whatsapp-list 157.240.201.60
-/add list=whatsapp-list 157.240.201.60
-/add list=whatsapp-list 15.197.206.217
-/add list=whatsapp-list 157.240.201.60
-/add list=whatsapp-list 157.240.201.60
-/add list=whatsapp-list 157.240.201.61
-/add list=whatsapp-list 157.240.205.60
-/add list=whatsapp-list 157.240.201.60
-/add list=whatsapp-list 157.240.201.60
-/add list=whatsapp-list 157.240.0.61
-/add list=whatsapp-list 157.240.201.60
-/add list=whatsapp-list 3.33.252.61
-/add list=whatsapp-list 157.240.252.60
-/add list=whatsapp-list 157.240.201.61
-/add list=whatsapp-list 57.144.223.32
-/add list=whatsapp-list 31.13.72.52
+add list=whatsapp-list address=57.144.111.32 comment=whatsapp-list
+add list=whatsapp-list address=57.144.113.32 comment=whatsapp-list
+add list=whatsapp-list address=157.240.201.60 comment=whatsapp-list
+add list=whatsapp-list address=15.197.206.217 comment=whatsapp-list
+add list=whatsapp-list address=157.240.201.61 comment=whatsapp-list
+add list=whatsapp-list address=157.240.205.60 comment=whatsapp-list
+add list=whatsapp-list address=157.240.0.61 comment=whatsapp-list
+add list=whatsapp-list address=3.33.252.61 comment=whatsapp-list
+add list=whatsapp-list address=157.240.252.60 comment=whatsapp-list
+add list=whatsapp-list address=57.144.223.32 comment=whatsapp-list
+add list=whatsapp-list address=31.13.72.52 comment=whatsapp-list
