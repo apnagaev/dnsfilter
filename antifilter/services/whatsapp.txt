@@ -25,4 +25,3 @@ graph.whatsapp.com
 dit.whatsapp.net
 media-arn2-1.cdn.whatsapp.net
 media-arn2-1.cdn.whatsapp.net
-online.atol.ru
