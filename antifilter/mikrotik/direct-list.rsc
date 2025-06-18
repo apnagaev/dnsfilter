@@ -1,6 +1,5 @@
 /ip/firewall/address-list/
 add list=direct-list address=178.57.71.0/24 comment=at-list
-add list=direct-list address=178.57.71.0/24 comment=at-list
 add list=direct-list address=185.71.67.137 comment=at-list
 add list=direct-list address=185.71.64.144 comment=at-list
 add list=direct-list address=5.45.192.0/18 comment=yandex-list
