@@ -2,7 +2,6 @@
 /ip/firewall/address-list/add list=allow_input address=185.24.42.0/24 comment=ai-list
 /ip/firewall/address-list/add list=allow_input address=89.255.71.41 comment=ai-list
 /ip/firewall/address-list/add list=allow_input address=62.213.14.166 comment=ai-list
-/ip/firewall/address-list/add list=allow_input address=10.255.0.0/16 comment=ai-list
 /ip/firewall/address-list/add list=direct-list address=57.144.111.32 comment=whatsapp-list
 /ip/firewall/address-list/add list=direct-list address=57.144.113.32 comment=whatsapp-list
 /ip/firewall/address-list/add list=direct-list address=57.144.223.32 comment=whatsapp-list
