@@ -1,7 +1,3 @@
-/ip/firewall/address-list/add list=direct-list address=109.196.132.0/24 comment=ai-list
-/ip/firewall/address-list/add list=direct-list address=185.24.42.0/24 comment=ai-list
-/ip/firewall/address-list/add list=direct-list address=89.255.71.41 comment=ai-list
-/ip/firewall/address-list/add list=direct-list address=62.213.14.166 comment=ai-list
 /ip/firewall/address-list/add list=direct-list address=57.144.111.32 comment=whatsapp-list
 /ip/firewall/address-list/add list=direct-list address=57.144.113.32 comment=whatsapp-list
 /ip/firewall/address-list/add list=direct-list address=57.144.223.32 comment=whatsapp-list
