@@ -1,4 +1,5 @@
 :local ttl 14400
+:local list direct
 /ip/firewall/address-list/
 add address=vk.com comment=vk timeout=$ttl list=direct-dns  
 add address=vk.com timeout=$ttl list=$list comment=at-list
