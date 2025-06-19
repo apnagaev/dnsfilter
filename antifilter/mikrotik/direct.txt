@@ -32,7 +32,7 @@ static.rutube.ru
 test.rutube.ru
 salam-mskost-3.rutube.ru
 #at
-78.57.71.0/24
+178.57.71.0/24
 185.71.67.137
 185.71.64.144
 #yandex
