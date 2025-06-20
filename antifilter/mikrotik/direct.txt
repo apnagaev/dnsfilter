@@ -1,3 +1,16 @@
+#gosuslugi
+www.gosuslugi.ru
+gosuslugi.ru
+esia.gosuslugi.ru
+esia.gslb.gosuslugi.ru
+www.gslb.gosuslugi.ru
+elections.gslb.gosuslugi.ru
+m.dom.gosuslugi.ru
+crl.gosuslugi.ru
+sfd.gosuslugi.ru
+bot.gosuslugi.ru
+payment.gosuslugi.ru
+dom.gosuslugi.ru
 #sberbank
 194.54.12.0/22
 185.157.97.0/24
