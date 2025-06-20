@@ -1,3 +1,11 @@
+#ozon
+185.73.192.0/22
+31.130.140.0/22
+185.73.194.0/23
+ir-3.ozone.ru
+finance.ozon.ru
+pins.finance.ozon.ru
+api.finance.ozon.ru
 #gosuslugi
 www.gosuslugi.ru
 gosuslugi.ru
