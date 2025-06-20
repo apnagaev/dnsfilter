@@ -37,10 +37,13 @@ pic.rutubelist.ru
 static.rutube.ru
 test.rutube.ru
 salam-mskost-3.rutube.ru
+salam-mskugr-11.rutube.ru
 pic.rutubelist.ru
 river-1.rutube.ru
 cdn-st.rutubelist.ru
 vha.rutube.ru
+api.vigo.one
+cdn.uxfeedback.ru
 #at
 178.57.71.0/24
 185.71.67.137
