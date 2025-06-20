@@ -1,3 +1,19 @@
+#sberbank
+mpsbol.clickstream.sberbank.ru
+cms-res.online.sberbank.ru
+pushmarketing.sberbank-tele.com
+cdn.sberbank.ru
+ddp-mobile.online.sberbank.ru
+messenger.sberbank.ru
+cbro.online.sberbank.ru
+mobile-node1.online.sberbank.ru
+online.sberbank.ru
+stat.online.sberbank.ru
+selfupdate.sberbank.ru
+int.clickstream.sberbank.ru
+res.online.sberbank.ru
+
+#mail.ru
 mail.ru
 #vk
 vk.com
@@ -16,7 +32,6 @@ vkvd460.okcdn.ru
 vkvd334.okcdn.ru
 vk7-1.vkuser.net
 m.vk.com
-
 #rutube
 rutube.ru
 941221.log.rutube.ru
