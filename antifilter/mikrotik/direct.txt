@@ -7,6 +7,13 @@ finance.ozon.ru
 pins.finance.ozon.ru
 api.finance.ozon.ru
 #gosuslugi
+lk.gosuslugi.ru
+213.59.253.6
+213.59.253.7
+213.59.253.8
+213.59.254.6
+213.59.254.7
+213.59.254.8
 www.gosuslugi.ru
 gosuslugi.ru
 esia.gosuslugi.ru
