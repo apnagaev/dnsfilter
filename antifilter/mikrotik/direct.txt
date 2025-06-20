@@ -24,10 +24,11 @@ vkvd460.okcdn.ru
 178.237.16.0/21
 #rutube
 rutube.ru
-941221.log.rutube.ru
 goya.rutube.ru
 cdn-gcore-1.rutube.ru
 951222.log.rutube.ru
+931221.log.rutube.ru
+941221.log.rutube.ru
 yast.rutube.ru
 log.rutube.ru
 bl.rutube.ru
@@ -37,6 +38,9 @@ static.rutube.ru
 test.rutube.ru
 salam-mskost-3.rutube.ru
 pic.rutubelist.ru
+river-1.rutube.ru
+cdn-st.rutubelist.ru
+vha.rutube.ru
 #at
 178.57.71.0/24
 185.71.67.137
