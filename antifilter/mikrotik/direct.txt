@@ -21,14 +21,16 @@ static.rutube.ru
 test.rutube.ru
 salam-mskost-3.rutube.ru
 salam-mskugr-11.rutube.ru
-pic.rutubelist.ru
 river-1.rutube.ru
 river-3-323.rtbcdn.ru
+river-3-340.rtbcdn.ru
 river-5-523.rtbcdn.ru
+river-3-354.rtbcdn.ru
 cdn-st.rutubelist.ru
 vha.rutube.ru
 api.vigo.one
 cdn.uxfeedback.ru
+pic.rutubelist.ru
 #ozon
 185.73.192.0/22
 31.130.140.0/22
