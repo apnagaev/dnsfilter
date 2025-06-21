@@ -24,6 +24,7 @@ salam-mskugr-11.rutube.ru
 pic.rutubelist.ru
 river-1.rutube.ru
 river-3-323.rtbcdn.ru
+river-5-523.rtbcdn.ru
 cdn-st.rutubelist.ru
 vha.rutube.ru
 api.vigo.one
