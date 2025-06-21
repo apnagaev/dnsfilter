@@ -19,6 +19,7 @@ ssp.rutube.ru
 pic.rutubelist.ru
 static.rutube.ru
 test.rutube.ru
+cdn-ngenix-2.rtbcdn.ru
 salam-mskost-3.rutube.ru
 salam-mskugr-11.rutube.ru
 river-1.rutube.ru
