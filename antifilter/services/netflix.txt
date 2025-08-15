@@ -7,7 +7,6 @@ www.dradis.netflix.com
 52.213.117.187
 52.212.50.192
 logs.netflix.com
-logs.eu-west-1.internal.dradis.netflix.com
 nrdp-ipv6.prod.ftl.netflix.com
 18.200.8.190/32
 54.73.148.110/32
