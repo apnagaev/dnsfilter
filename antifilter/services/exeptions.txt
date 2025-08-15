@@ -4,6 +4,13 @@
 8.8.8.8
 hwdb-api.gurtam.com
 193.193.165.141
+#checkmtu
+www.speedguide.net
+speedguide.net
+#at
+178.57.71.0/24
+185.71.67.137
+185.71.64.144
 ###mgts
 46.138.0.0/16
 37.190.0.1/17
