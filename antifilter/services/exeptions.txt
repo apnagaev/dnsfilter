@@ -93,7 +93,7 @@ counter.yadro.ru
 88.212.201.198
 88.212.201.204
 88.212.202.52
-t.me
+#t.me
 download.owncloud.com
 pay-drru.iap.cloud.huawei.ru
 oauth-api.cloud.huawei.ru
