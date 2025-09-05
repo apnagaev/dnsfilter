@@ -2,6 +2,7 @@
 www.speedguide.net
 speedguide.net
 #rutube
+api.vigo.ru
 77.220.216.0/20
 89.248.230.0/24
 185.62.100.0/24
