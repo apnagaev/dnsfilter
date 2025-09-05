@@ -12,6 +12,7 @@ rutube.ru
 goya.rutube.ru
 cdn-gcore-1.rutube.ru
 951222.log.rutube.ru
+931131.log.rutube.ru
 931221.log.rutube.ru
 941221.log.rutube.ru
 yast.rutube.ru
