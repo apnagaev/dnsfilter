@@ -179,8 +179,10 @@ dom.gosuslugi.ru
 pushmarketing.sberbank-tele.com
 cdn.sberbank.ru
 #avitow
-176.114.112.0
+176.114.112.0/20
 exchange.avito.ru
+#esphw
+195.19.207.0/24
 #mail/vk/rustore
 128.140.168.0/21
 178.22.88.0/21
