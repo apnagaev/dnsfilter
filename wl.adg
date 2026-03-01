@@ -249,6 +249,7 @@ stats.rustore.ru
 api.rustore.ru
 auth.vkpns.rustore.ru
 client-api.remote-config.rustore.ru
+static.rustore.ru
 ####||googleads.g.doubleclick.net^
 ||ogs.google.com^
 ||translated.turbopages.org^
