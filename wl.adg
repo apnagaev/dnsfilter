@@ -242,6 +242,14 @@
 ||trace.svc.ui.com^
 ||ping.ui.com^
 ||bit.ly^
+####rustore
+rebus.rustore.ru
+backapi.rustore.ru
+vkpns.rustore.ru
+stats.rustore.ru
+api.rustore.ru
+auth.vkpns.rustore.ru
+client-api.remote-config.rustore.ru
 ####||googleads.g.doubleclick.net^
 ||ogs.google.com^
 ||translated.turbopages.org^
