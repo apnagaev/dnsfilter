@@ -125,3 +125,13 @@ store-drru.hispace.dbankcloud.ru
 ipwho.is
 172.66.175.107
 104.20.44.133
+##max
+max.ru
+help.max.ru
+business.max.ru
+dev.max.ru
+#st.max.ru
+legal.max.ru
+download.max.ru
+miniapps.max.ru
+go.max.ru
