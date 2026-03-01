@@ -183,6 +183,15 @@ cdn.sberbank.ru
 exchange.avito.ru
 #esphw
 195.19.207.0/24
+#rustore
+rebus.rustore.ru
+backapi.rustore.ru
+vkpns.rustore.ru
+stats.rustore.ru
+api.rustore.ru
+auth.vkpns.rustore.ru
+client-api.remote-config.rustore.ru
+ads.rustore.ru
 #mail/vk/rustore
 vk.com
 api.vk.ru
