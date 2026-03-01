@@ -184,6 +184,11 @@ exchange.avito.ru
 #esphw
 195.19.207.0/24
 #mail/vk/rustore
+vk.com
+api.vk.ru
+max.ru
+ok.ru
+mail.ru
 128.204.0.0/16
 130.49.0.0/16
 128.140.168.0/21
