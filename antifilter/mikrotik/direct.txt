@@ -192,6 +192,7 @@ api.rustore.ru
 auth.vkpns.rustore.ru
 client-api.remote-config.rustore.ru
 ads.rustore.ru
+static.rustore.ru
 #mail/vk/rustore
 vk.com
 api.vk.ru
