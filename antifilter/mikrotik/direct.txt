@@ -803,3 +803,13 @@ welrok.ru
 185.215.4.39
 app.welrok.com
 103.74.94.24
+##max
+max.ru
+help.max.ru
+business.max.ru
+dev.max.ru
+#st.max.ru
+legal.max.ru
+download.max.ru
+miniapps.max.ru
+go.max.ru
