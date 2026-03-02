@@ -652,6 +652,8 @@ sip.salutejazz.ru
 87.242.84.62
 dl.salutejazz.ru
 gqqxmrhz1e.a.trbcdn.net
+a-t.salutejazz.ru
+s-t.salutejazz.ru
 #plex
 www.plex.tv
 plex.tv
