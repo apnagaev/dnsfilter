@@ -1060,6 +1060,8 @@ welrok.ru
 app.welrok.com
 103.74.94.24
 ###playstation
+playstation.net
+playstation.com
 34-210-178-160-pushcl.np.communication.playstation.net
 44-234-163-191-pushcl.np.communication.playstation.net
 44-234-164-124-pushcl.np.communication.playstation.net
