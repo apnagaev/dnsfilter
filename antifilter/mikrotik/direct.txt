@@ -1062,6 +1062,7 @@ app.welrok.com
 ##max
 max.ru
 help.max.ru
+b2bapi.max.ru
 business.max.ru
 dev.max.ru
 #st.max.ru
