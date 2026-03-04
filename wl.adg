@@ -173,8 +173,11 @@
 ||ip-api.com^
 ||driverpack.io
 ||cp.unisender.com^
-#abuse vk
+#vk
 #||vk.com^
+||ms.vk.com^
+||okcdn.ru^
+||vkuserphoto.ru^
 ||atol.su^
 ||userapi.com^
 #||cdn.ampproject.org^
