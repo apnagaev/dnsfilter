@@ -174,8 +174,8 @@
 ||driverpack.io
 ||cp.unisender.com^
 #vk
-ts.tracker-api.vk-analytics.ru
-tracker-api.vk-analytics.ru
+#ts.tracker-api.vk-analytics.ru
+#tracker-api.vk-analytics.ru
 vk.com
 vk.ru
 away.vk.com
@@ -187,7 +187,7 @@ quic-api.vk.com
 queuev4.vk.ru
 eh.vk.com
 persiq.vk.com
-r0.mail.ru
+#r0.mail.ru
 ||ms.vk.com^
 ||okcdn.ru^
 ||vkuserphoto.ru^
