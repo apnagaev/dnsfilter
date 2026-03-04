@@ -232,6 +232,12 @@ static.rustore.ru
 95.163.32.0/19
 95.163.40.0/18
 95.213.34.0/18
+api.mycdn.me
+quic-api.vk.com
+queuev4.vk.ru
+eh.vk.com
+persiq.vk.com
+r0.mail.ru
 api.vk.com
 api.vk.ru
 api.vkvideo.ru
