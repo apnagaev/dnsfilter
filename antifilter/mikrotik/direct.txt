@@ -20,6 +20,8 @@ yast.rutube.ru
 log.rutube.ru
 bl.rutube.ru
 ssp.rutube.ru
+premier-static.rtbcdn.ru
+static.rtbcdn.ru
 pic.rutube.ru
 pic.rutubelist.ru
 static.rutube.ru
