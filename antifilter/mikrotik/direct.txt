@@ -140,6 +140,8 @@ river-5-552.rtbcdn.ru
 river-5-554.rtbcdn.ru
 river-5-556.rtbcdn.ru
 river-6-601.rtbcdn.ru
+cdn-ngenix-1.rtbcdn.ru
+cdn-ngenix-2.rtbcdn.ru
 cdn-st.rutubelist.ru
 vha.rutube.ru
 api.vigo.one
