@@ -188,13 +188,6 @@ sfd.gosuslugi.ru
 bot.gosuslugi.ru
 payment.gosuslugi.ru
 dom.gosuslugi.ru
-#sberbank
-194.54.12.0/22
-185.157.97.0/24
-84.252.144.0/21
-84.252.152.0/22
-pushmarketing.sberbank-tele.com
-cdn.sberbank.ru
 #avitow
 176.114.112.0/20
 exchange.avito.ru
@@ -654,6 +647,7 @@ turn03.jazz.sberbank.ru
 turn04.jazz.sberbank.ru
 ws.salutejazz.ru
 #sber
+#sberbank
 80.66.92.0/22
 84.252.144.0/21
 84.252.152.0/24
