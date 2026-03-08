@@ -15,6 +15,9 @@ speedguide.net
 195.246.240.0/21
 195.246.248.0/23
 217.199.213.0/24
+salam-smf-crc-56.rtbcdn.ru
+salam-smf-mira-160.rtbcdn.ru
+salam-2.rtbcdn.ru
 931131.log.rutube.ru
 931221.log.rutube.ru
 941221.log.rutube.ru
