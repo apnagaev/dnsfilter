@@ -172,13 +172,9 @@ finance.ozon.ru
 pins.finance.ozon.ru
 api.finance.ozon.ru
 #gosuslugi
+109.207.0.0/20
+213.59.192.0/18
 lk.gosuslugi.ru
-213.59.253.6
-213.59.253.7
-213.59.253.8
-213.59.254.6
-213.59.254.7
-213.59.254.8
 www.gosuslugi.ru
 gosuslugi.ru
 esia.gosuslugi.ru
