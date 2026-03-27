@@ -174,18 +174,9 @@ api.finance.ozon.ru
 #gosuslugi
 109.207.0.0/20
 213.59.192.0/18
-lk.gosuslugi.ru
-www.gosuslugi.ru
-gosuslugi.ru
-esia.gosuslugi.ru
-esia.gslb.gosuslugi.ru
-www.gslb.gosuslugi.ru
-elections.gslb.gosuslugi.ru
+#217.107.64.0/18 dom.gosulugi
+#217.107.128.0/18 dom.gosulugi
 m.dom.gosuslugi.ru
-crl.gosuslugi.ru
-sfd.gosuslugi.ru
-bot.gosuslugi.ru
-payment.gosuslugi.ru
 dom.gosuslugi.ru
 #avitow
 176.114.112.0/20
