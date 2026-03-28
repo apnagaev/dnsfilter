@@ -286,6 +286,8 @@ static.rustore.ru
 185.71.67.137
 185.71.64.144
 #yandex
+ext-cloudcdn-msk8martbln01.cdn.yandex.net
+ext-cloudcdn-mskkk12bln-01.cdn.yandex.net
 5.45.192.0/18
 5.255.192.0/18
 37.9.64.0/18
