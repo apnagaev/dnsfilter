@@ -625,6 +625,9 @@ legal.max.ru
 download.max.ru
 miniapps.max.ru
 go.max.ru
+155.212.204.0/24
+web.max.ru
+pro.max.ru
 #sberjazz
 178.248.233.18/32
 178.248.237.16/32
