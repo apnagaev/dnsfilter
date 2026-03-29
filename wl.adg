@@ -419,7 +419,7 @@ static.rustore.ru
 #pro.max.ru
 #web.max.ru
 ||max.ru^
-ws-api.oneme.ru
+||oneme.ru^
 ##
 ||api.xiaomi.com^
 ###pandora
