@@ -616,8 +616,7 @@ welrok.ru
 app.welrok.com
 103.74.94.24
 ##max
-155.212.193.0/24
-155.212.197.0/24
+155.212.192.0/20
 max.ru
 help.max.ru
 b2bapi.max.ru
