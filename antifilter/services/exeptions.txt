@@ -1,3 +1,9 @@
+###digitalresistance.dog
+digitalresistance.dog
+216.239.36.21
+216.239.38.21
+216.239.32.21
+216.239.34.21
 #####WIALON CONTENT
 47.251.97.229
 #1.1.1.1
