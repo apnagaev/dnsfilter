@@ -769,4 +769,7 @@ playhubconnect.com
 tr.pvvstream.pro
 u3y8v8u4.aucdn.net
 199.60.103.0/24
+213.171.19.0/24
+212.102.56.0/24
+37.19.194.0/24
 cdn.pvvstream.pro
