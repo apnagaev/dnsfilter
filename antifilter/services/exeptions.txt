@@ -1,3 +1,6 @@
+####qwen
+cas-bridge.xethub.hf.co
+13.249.8.0/24
 ###digitalresistance.dog
 digitalresistance.dog
 216.239.36.21
