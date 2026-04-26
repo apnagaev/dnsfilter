@@ -2,8 +2,8 @@
 194.147.34.77
 185.24.42.19
 #checkmtu
-www.speedguide.net
-speedguide.net
+#www.speedguide.net
+#speedguide.net
 #rutube naukanet
 84.47.168.0/20
 84.47.176.0/23
