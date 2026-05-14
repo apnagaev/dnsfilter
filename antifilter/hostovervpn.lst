@@ -3,6 +3,8 @@ piston-data.mojang.com
 launcher-cdn.azureedge.net
 launcher-cdn.afd.azureedge.net
 mojang.com
+150.171.109.0/24
+150.171.110.0/24
 dns.google
 1.1.1.1
 1.0.0.1
