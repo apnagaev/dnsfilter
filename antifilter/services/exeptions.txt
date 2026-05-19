@@ -162,3 +162,4 @@ miniapps.max.ru
 go.max.ru
 ###
 api.minecraftservices.com
+codemc-jenkins-artifacts.nbg1.your-objectstorage.com
