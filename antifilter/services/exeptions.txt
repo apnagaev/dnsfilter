@@ -162,6 +162,8 @@ miniapps.max.ru
 go.max.ru
 ###
 api.minecraftservices.com
+minecraftapi-bef7bxczg0amd8ef.z01.azurefd.net
+mr-z01.tm-azurefd.net
 150.171.109.51
 13.107.226.72
 13.107.253.72
