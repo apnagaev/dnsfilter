@@ -163,4 +163,6 @@ go.max.ru
 ###
 api.minecraftservices.com
 150.171.109.51
+13.107.226.72
+13.107.253.72
 codemc-jenkins-artifacts.nbg1.your-objectstorage.com
