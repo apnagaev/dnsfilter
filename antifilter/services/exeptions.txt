@@ -169,3 +169,6 @@ mr-z01.tm-azurefd.net
 13.107.253.72
 13.107.226.44
 codemc-jenkins-artifacts.nbg1.your-objectstorage.com
+####checkip
+ifconfig.me
+api.ipify.org
