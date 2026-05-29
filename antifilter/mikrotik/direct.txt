@@ -786,3 +786,17 @@ t2msk1-host.qms.ru
 t2msk3-host.qms.ru
 www.qms.ru
 qms.ru
+cherkessk.qms.ru
+didikrd-host.qms.ru
+krasnodar.qms.ru
+lib.qms.ru
+tvintelug-host.qms.ru
+maykop.qms.ru
+natanetru-host.qms.ru
+opteleru01-host.qms.ru
+speedtest-host.qms.ru
+stavropol.qms.ru
+toolskmv-host.qms.ru
+linenew-host.qms.ru
+smolensk.qms.ru
+vladimir.qms.ru
