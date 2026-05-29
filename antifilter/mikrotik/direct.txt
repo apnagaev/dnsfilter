@@ -779,3 +779,10 @@ cdn.pvvstream.pro
 ####tander
 193.19.168.0/22
 46.173.22.0/23
+###qms
+fortex-host.qms.ru
+moscow.qms.ru
+t2msk1-host.qms.ru
+t2msk3-host.qms.ru
+www.qms.ru
+qms.ru
