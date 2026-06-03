@@ -800,3 +800,11 @@ toolskmv-host.qms.ru
 linenew-host.qms.ru
 smolensk.qms.ru
 vladimir.qms.ru
+####tilda
+filatovguitar.ru
+neo.tildacdn.com
+stat.tildaapi.com
+static.tildacdn.com
+static3.tildacdn.com
+sysstat.tildacdn.com
+thb.tildacdn.com
