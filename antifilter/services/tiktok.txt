@@ -16,6 +16,10 @@
 ^tiktokcdn-us.com||
 ^tiktokv.com.ttdns2.com||
 ^tiktokv.com.bytewlb.akadns||
+^musical.ly||
+musical.ly
+^byteoversea.com||
+byteoversea.com
 2fio72ng.sg-fn.tiktok-row.net
 a1059.t.akamai.net
 a1143.t.akamai.net
@@ -166,3 +170,16 @@ webcast16-ws-alisg.tiktokv.com.bytewlb.akadns.net
 webcast-frontier16-normal-alisg.tiktokv.com
 webcast-frontier22-normal-alisg.tiktokv.com
 widget-ru.tiktokv.com
+abtest-sg.byteoversea.com
+api32.clv.byteoversea.net
+i.byteoversea.com
+log.byteoversea.com
+log15.byteoversea.com
+mon.byteoversea.com
+mon-va.byteoversea.com
+mssdk-sg.byteoversea.com
+starling-oversea.byteoversea.com
+tnc16-alisg.byteoversea.com
+tnc16-useast1a.byteoversea.com
+v45.clv.byteoversea.net
+vas-alisg.byteoversea.com
