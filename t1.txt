@@ -1,14 +1,14 @@
 [Interface]
-# -WGP- Peer: NkDCzBVTJgk5hPLWsCbWw1p//FtH/nRBLSPal29bhhc=
-# -WGP- Created: 2026-07-07 06:00:07.733209167 +0000 UTC
-# -WGP- Updated: 2026-07-07 06:00:07.735890523 +0000 UTC
-# -WGP- Display name: AItot2
-# -WGP- PublicKey: NkDCzBVTJgk5hPLWsCbWw1p//FtH/nRBLSPal29bhhc=
+# -WGP- Peer: vg+iV09wIa9bQKrchqelCvLEhGN+SGYTnY98+HStMDQ=
+# -WGP- Created: 2026-07-07 06:00:29.981064415 +0000 UTC
+# -WGP- Updated: 2026-07-07 06:00:29.983480793 +0000 UTC
+# -WGP- Display name: AItot3
+# -WGP- PublicKey: vg+iV09wIa9bQKrchqelCvLEhGN+SGYTnY98+HStMDQ=
 # -WGP- Peer type: client
 
 # Core settings
-PrivateKey = UH5sQggeClgSUljaXaV8yhdIMyfGonrSunViePnsB3U=
-Address = 10.255.7.170/32
+PrivateKey = uFuQRuee9BLnBodxS7FmcK0R9UiYJrsEGWcdnP/FwVc=
+Address = 10.255.7.171/32
 
 # Misc. settings (optional)
 DNS = 10.255.253.76,10.255.253.78,10.255.253.77
@@ -18,5 +18,5 @@ DNS = 10.255.253.76,10.255.253.78,10.255.253.77
 PublicKey = /rkvptW1RWuFifriFc7euH2UymkgKxD5MUxHAsHo7mY=
 Endpoint = wg.nagaev.biz:51821
 AllowedIPs = 0.0.0.0/0
-PresharedKey = kLbeH2fk77LnjlZR+VwR3w6mx6xcoh/JzfY7sE/2myI=
+PresharedKey = HXcnY9vN4i4wdzuTvTGv/Cqd+BJjOapkwU1k64dHUNQ=
 PersistentKeepalive = 16
