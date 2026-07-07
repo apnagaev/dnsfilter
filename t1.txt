@@ -1,0 +1,22 @@
+[Interface]
+# -WGP- Peer: pMWeY9OzLinrBSZEaDsQbIUcFAZIsNl8MFyW/vwCSxY=
+# -WGP- Created: 2026-07-07 05:59:48.218347619 +0000 UTC
+# -WGP- Updated: 2026-07-07 05:59:48.221344942 +0000 UTC
+# -WGP- Display name: AItot1
+# -WGP- PublicKey: pMWeY9OzLinrBSZEaDsQbIUcFAZIsNl8MFyW/vwCSxY=
+# -WGP- Peer type: client
+
+# Core settings
+PrivateKey = GNLkv3/tcOkYThcSW079QMiRcz5JGsxo+8NRXNl1IWI=
+Address = 10.255.7.169/32
+
+# Misc. settings (optional)
+DNS = 10.255.253.76,10.255.253.78,10.255.253.77
+# Interface hooks (optional)
+
+[Peer]
+PublicKey = /rkvptW1RWuFifriFc7euH2UymkgKxD5MUxHAsHo7mY=
+Endpoint = wg.nagaev.biz:51821
+AllowedIPs = 0.0.0.0/0
+PresharedKey = BFg8Hh/XDxovyrCsjKvzGpBqboIqHqBbSdn8hX9pOn0=
+PersistentKeepalive = 16
