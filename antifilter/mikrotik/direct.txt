@@ -813,3 +813,7 @@ lichess.org
 lichess1.org
 socket.lichess.org
 socket.lichess1.org
+explorer.lichess.org
+socket2.lichess.org
+socket3.lichess.org
+socket4.lichess.org
