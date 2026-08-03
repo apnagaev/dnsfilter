@@ -808,3 +808,8 @@ static.tildacdn.com
 static3.tildacdn.com
 sysstat.tildacdn.com
 thb.tildacdn.com
+#chess
+lichess.org
+lichess1.org
+socket.lichess.org
+socket.lichess1.org
