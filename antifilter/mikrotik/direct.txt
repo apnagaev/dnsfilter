@@ -1,8 +1,3 @@
-#outlook
-outlook.office.com
-outlook.office365.com
-outlook.cloud.microsoft
-##
 193.148.59.225
 194.147.34.77
 185.24.42.19
