@@ -1,0 +1,6 @@
+###https://gitlab.com/POLESNIESOVETI12/web-panel-proxy
+api.ipify.org
+acme-v01.api.letsencrypt.org
+acme-staging.api.letsencrypt.org
+acme-v02.api.letsencrypt.org
+acme-staging-v02.api.letsencrypt.org
