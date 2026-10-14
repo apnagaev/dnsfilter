@@ -37,6 +37,10 @@ wns.windows.com
 ||ms-acdc.office.com^
 ||officeclient.microsoft.com^
 ||officeapps.live.com^
+##wb
+antibot.wildberries.ru
+journal-bt.wildberries.ru
+banners-bt.wildberries.ru
 #yandex
 #||yandex.net^
 user-id-frontend.s3.yandex.net
