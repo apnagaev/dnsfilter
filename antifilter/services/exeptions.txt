@@ -1,3 +1,8 @@
+#gopro
+software.gopro.com
+www.gopro.com
+api.gopro.com
+gopro.com
 ####qwen
 cas-bridge.xethub.hf.co
 13.249.8.0/24
